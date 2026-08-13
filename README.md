@@ -113,6 +113,10 @@ y no como sustituto de una tasación profesional.
 ## Autores
 
 Proyecto desarrollado por un equipo de 4 integrantes.
+Manuel Jauregui
+Gonzalo Majluf
+Jordi Moreno
+Maritza Aredo
 
 ## Presentación
 
